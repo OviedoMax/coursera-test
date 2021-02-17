@@ -15,8 +15,10 @@
 }
 
 .menu-section {
-    background-color: lightslategray;
+	background-color: lightslategray;
 }
 
-
+.section-title{
+	padding: 5px;
+}
 
